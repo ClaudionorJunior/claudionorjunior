@@ -7,11 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudionorJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudionorJunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div>
- <b>
-  I have a old repository [here](https://github.com/claudionorjr), you can see 🤓
-  <b>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="js" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor">
   <img align="center" alt="ts" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor">
@@ -22,6 +17,11 @@
   <img align="center" alt="go" src="https://icongr.am/devicon/go-original.svg?size=40&color=currentColor">
   <img align="center" alt="mysql" src="https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor">
   <img align="center" alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColorg">
+</div>
+ <div>
+ <b>
+  I have a old repository <a href="https://github.com/claudionorjr">here</a>, you can see 🤓
+  <b>
 </div>
   
   ##
