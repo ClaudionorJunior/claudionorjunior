@@ -20,7 +20,7 @@
 </div>
  <div>
  <b>
-  I have a old repository <a href="https://github.com/claudionorjr">here</a>, you can see 🤓
+  I have a old repository, you can see <a href="https://github.com/claudionorjr">here</a> 🤓
   <b>
 </div>
   
