@@ -15,6 +15,7 @@
   <img align="center" alt="react" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor">
   <img align="center" alt="python" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor">
   <img align="center" alt="go" src="https://icongr.am/devicon/go-original.svg?size=40&color=currentColor">
+  <img align="center" alt="node" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="mysql" src="https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor">
   <img align="center" alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColorg">
 </div>
