@@ -8,16 +8,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudionorJunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="js" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor">
-  <img align="center" alt="ts" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor">
-  <img align="center" alt="html" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor">
-  <img align="center" alt="css" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor">
-  <img align="center" alt="react" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor">
-  <img align="center" alt="python" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor">
-  <img align="center" alt="go" src="https://icongr.am/devicon/go-original.svg?size=40&color=currentColor">
-  <img align="center" alt="node" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor">
-  <img align="center" alt="mysql" src="https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor">
-  <img align="center" alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColorg">
+  <img align="center" alt="js" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" />
+  <img align="center" alt="ts" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor" />
+  <img align="center" alt="html" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" />
+  <img align="center" alt="css" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" />
+  <img align="center" alt="react" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" />
+  <img align="center" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" width="40" alt="grphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="node" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" />
+  <img align="center" alt="python" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" />
+  <img align="center" alt="go" src="https://icongr.am/devicon/go-original.svg?size=40&color=currentColor" />
+  <img align="center" alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColorg" />
 </div>
  <div>
  <b>
