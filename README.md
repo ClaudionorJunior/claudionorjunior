@@ -21,9 +21,6 @@
   <img align="center" alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColorg" />
 </div>
  <div>
- <b>
-  I have a old repository, you can see <a href="https://github.com/claudionorjr">here</a> 🤓
-  <b>
 </div>
   
   ##
